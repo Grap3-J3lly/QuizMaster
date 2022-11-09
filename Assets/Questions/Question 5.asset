@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: Should I have put more effort into my questions?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - Probably
+  - Who knows
+  - It's your training project man, do what you want
+  - Idk man I just work here
+  correctAnswerIndex: 3

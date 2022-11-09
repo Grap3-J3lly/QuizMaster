@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 1
   m_EditorClassIdentifier: 
   question: Is this a test question?
+  answers:
+  - Yes
+  - No
+  - Maybe?
+  - I don't know how to read
+  correctAnswerIndex: 0

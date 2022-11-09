@@ -15,8 +15,8 @@ MonoBehaviour:
   question: This question needs to have a long answer, so type something kind of
     long. Maybe a short story? Maybe what you did last weekend? I don't mind which.
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - I'm choosing a random index as the correct answer
+  - I don't know what to write
+  - This is the correct answer, trust me
+  - I'm not the right answer
+  correctAnswerIndex: 2

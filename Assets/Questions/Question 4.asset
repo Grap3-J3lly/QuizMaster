@@ -15,8 +15,8 @@ MonoBehaviour:
   question: I only have two more of these questions to go. I did realize that it
     seems I have a sticky B key, which is a tad upsetting. Don't you agree?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - What? You just got this keyboard
+  - Yeah I agree, that's kinda dumb
+  - What can you do? It's why you get mechanical keyboards
+  - Stop complaining, gosh big dumb baby
+  correctAnswerIndex: 1

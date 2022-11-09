@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: Are you creating this for a training project?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - Still don't know how to read
+  - No
+  - Maybe?
+  - I guess
+  correctAnswerIndex: 3
